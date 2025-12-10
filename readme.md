@@ -15,8 +15,6 @@
 
 ## 🚀 Live Demo
 
-**[Try PaletteForge →](https://paletteforge.io)**
-
 ![PaletteForge Screenshot](images/PaletteForge.png)
 
 ## 🎯 Palette Types
@@ -47,10 +45,9 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/paletteforge.git
-
+https://github.com/Divya28K/Color-Palette-Generator.git
 # Navigate to project directory
-cd paletteforge
+cd Color-Palette-Generator
 
 # Open in your browser
 open index.html
@@ -125,16 +122,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [ ] Gradient generator between colors
 - [ ] Color blindness simulator
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Color theory principles from [Adobe Color](https://color.adobe.com)
-- Inspired by [Coolors.co](https://coolors.co) and other palette generators
-- Font Awesome for beautiful icons
-- Google Fonts for typography
 
 ## 📊 Project Stats
 
@@ -143,8 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Load Time**: <1 second
 - **Lighthouse Score**: 100/100
 
----
 
-**Built with ❤️ using vanilla web technologies**
 
-[Website](https://paletteforge.io) • [Issues](https://github.com/yourusername/paletteforge/issues) • [Feature Requests](https://github.com/yourusername/paletteforge/discussions)
+
