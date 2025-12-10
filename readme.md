@@ -1,4 +1,4 @@
-# 🎨 PaletteForge
+# 🎨 Color-Palette-Generator
 
 > Generate beautiful, harmonious color palettes with advanced color theory algorithms
 
